@@ -30,12 +30,13 @@ This project analyzes telecommunications customer data to predict which customer
 ```
 customer-churn-ann-classifier/
 │
-├── customer_churn.ipynb          # Main Jupyter notebook with complete analysis
-├── customer_churn.pdf            # PDF export of the notebook
-├── churn_ann_model.keras         # Trained ANN model
-├── churn_preprocessor.pkl        # Data preprocessing pipeline
-├── churn_threshold.pkl           # Optimized classification threshold
-└── README.md                     # Project documentation
+├── customer_churn.ipynb               # Main Jupyter notebook with complete analysis
+├── customer_churn.pdf                 # PDF export of the notebook
+├── churn_ann_model.keras              # Trained ANN model
+├── churn_preprocessor.pkl             # Data preprocessing pipeline
+├── churn_threshold.pkl                # Optimized classification threshold
+├── WA_Fn-UseC_-Telco-Customer-Churn   # Raw Dataset
+└── README.md                          # Project documentation
 ```
 
 ## 🚀 Quick Start
